@@ -1,6 +1,6 @@
 NotebookLM_Experiments
 
-This repository contains experiment logs evaluating the functionalities of NotebookLM, an experimental educational tool developed by Google that combines language model capabilities with uploaded content. This project assesses the feasibility of NotebookLM for use in a university setting, specifically exploring its potential for summarization, question answering, study aids, and insight generation.
+This repository contains experiment logs evaluating the functionalities of NotebookLM, an experimental educational tool developed by Google that combines language model capabilities with uploaded content. This project assesses the feasibility of NotebookLM for use in a university setting, specifically exploring its potential for summarization, question answering, study aids, insight generation, and collaborative tools.
 
 Project Overview
 
@@ -26,14 +26,25 @@ Insight Generation and Analysis Results
 
 This log investigates NotebookLM’s ability to extract and present insights from educational content. The analysis assesses the value of these insights, their alignment with the document’s themes, and their potential educational utility.
 
+Collaborative Tools Results
+
+This log assesses NotebookLM's collaborative capabilities, including sharing options, permissions, and the potential for real-time updates. Observations focus on the effectiveness of these features for group learning and collaborative content interaction.
+
 How to Use This Repository
+
 Each log provides a detailed breakdown of the functionality tested, including:
 
 Experiment Setup: Description of the content used and the objectives of the experiment.
+
 Generated Outputs: Responses or outputs provided by NotebookLM for each functionality.
+
 Observations: A critical analysis of the outputs, including strengths, weaknesses, and areas for improvement.
+
 Conclusion: Final thoughts on the effectiveness of NotebookLM for each functionality.
 
 Conclusion
-The findings in this repository provide an in-depth look at the capabilities of NotebookLM as an educational tool. Through these experiments, we highlight the strengths of NotebookLM, such as its ability to generate accurate summaries and relevant study aids, as well as areas where it could improve, such as providing deeper context for beginners. This repository serves as a resource for understanding the potential applications of NotebookLM in a university setting.
+
+The findings in this repository provide an in-depth look at the capabilities of NotebookLM as an educational tool. Through these experiments, we highlight the strengths of NotebookLM, such as its ability to generate accurate summaries, relevant study aids, and effective insights. The collaborative tools, while functional, could benefit from additional features like real-time updates and annotation capabilities to enhance group learning and engagement. This repository serves as a resource for understanding the potential applications of NotebookLM in a university setting.
+
+
 

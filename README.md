@@ -1,4 +1,4 @@
-NotebookLM Experiment Logs
+NotebookLM_Experiments
 This repository contains experiment logs evaluating the functionalities of NotebookLM, an educational tool developed by Google that combines language model capabilities with uploaded content. This project assesses the feasibility of NotebookLM for use in a university setting, specifically exploring its potential for summarization, question answering, study aids, and insight generation.
 
 Project Overview
